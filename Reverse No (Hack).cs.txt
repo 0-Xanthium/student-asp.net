@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ReverseSolution
+{
+    /// <summary>
+    /// This class contains a solution to the "Reverse a Number" question done by
+    /// a IBSAR BCA First Year student IN FIVE MINUTES, without any reference.
+    /// This solution is technically correct, the best kind of
+    /// correct.
+    /// </summary>
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Assume some input.
+            int num = 400;
+            int digit = 0;
+
+            while (num > 0)
+            {
+                digit = num % 10;
+                Console.Write(digit);
+                num = num / 10;
+            }
+
+            Console.Read();
+        }
+    }
+}

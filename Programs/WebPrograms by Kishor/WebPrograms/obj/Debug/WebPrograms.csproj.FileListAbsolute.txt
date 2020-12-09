@@ -1,0 +1,5 @@
+c:\users\kishor trimal\documents\visual studio 2010\Projects\WebPrograms\WebPrograms\bin\WebPrograms.dll
+c:\users\kishor trimal\documents\visual studio 2010\Projects\WebPrograms\WebPrograms\bin\WebPrograms.pdb
+c:\users\kishor trimal\documents\visual studio 2010\Projects\WebPrograms\WebPrograms\obj\Debug\WebPrograms.dll
+c:\users\kishor trimal\documents\visual studio 2010\Projects\WebPrograms\WebPrograms\obj\Debug\WebPrograms.pdb
+C:\Users\Kishor Trimal\documents\visual studio 2010\Projects\WebPrograms\WebPrograms\obj\Debug\WebPrograms.csprojResolveAssemblyReference.cache

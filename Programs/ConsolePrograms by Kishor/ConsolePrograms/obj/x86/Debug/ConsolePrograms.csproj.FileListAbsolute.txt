@@ -1,0 +1,4 @@
+C:\Users\Kishor Trimal\documents\visual studio 2010\Projects\Aspconsoleprograms\Aspconsoleprograms\bin\Debug\Aspconsoleprograms.exe
+C:\Users\Kishor Trimal\documents\visual studio 2010\Projects\Aspconsoleprograms\Aspconsoleprograms\bin\Debug\Aspconsoleprograms.pdb
+C:\Users\Kishor Trimal\documents\visual studio 2010\Projects\Aspconsoleprograms\Aspconsoleprograms\obj\x86\Debug\Aspconsoleprograms.exe
+C:\Users\Kishor Trimal\documents\visual studio 2010\Projects\Aspconsoleprograms\Aspconsoleprograms\obj\x86\Debug\Aspconsoleprograms.pdb

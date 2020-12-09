@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CDCD198D-4740-4594-AB0F-3F1CDD2640C3}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Aspconsoleprograms</RootNamespace>
+    <AssemblyName>Aspconsoleprograms</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Aspconsoleprograms.sumof5evennumber</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="abstractclass.cs" />
+    <Compile Include="armstrongno1to1000.cs" />
+    <Compile Include="armstrongnobetween100to500.cs" />
+    <Compile Include="armstrongornot.cs" />
+    <Compile Include="arraywithascendinganddescending.cs" />
+    <Compile Include="arraywithsquareandcube.cs" />
+    <Compile Include="arraywithuniqueelement.cs" />
+    <Compile Include="classwithconstructor.cs" />
+    <Compile Include="classwithdatamemberandfile.cs" />
+    <Compile Include="constructoroverloading.cs" />
+    <Compile Include="countwordletterandnoofvowel.cs" />
+    <Compile Include="divisionbyzeroexception.cs" />
+    <Compile Include="factorialnumber.cs" />
+    <Compile Include="fibonacciseries.cs" />
+    <Compile Include="interfaceexample.cs" />
+    <Compile Include="jaggedarray.cs" />
+    <Compile Include="methodoverloading.cs" />
+    <Compile Include="methodoverloading1.cs" />
+    <Compile Include="methodoverriding.cs" />
+    <Compile Include="multilevelinheritance.cs" />
+    <Compile Include="palindromenumber.cs" />
+    <Compile Include="parameterizeconstructor.cs" />
+    <Compile Include="primeno1to100.cs" />
+    <Compile Include="primenowithrangefromuser.cs" />
+    <Compile Include="primeornot.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="readingfilewithstreamreader.cs" />
+    <Compile Include="reversestringwithoutfunction.cs" />
+    <Compile Include="singleinheritance.cs" />
+    <Compile Include="stringwithcountwordlettervowelandreverse.cs" />
+    <Compile Include="sumof5evennumber.cs" />
+    <Compile Include="table1to10.cs" />
+    <Compile Include="writedatainfilewithstreamwriter.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

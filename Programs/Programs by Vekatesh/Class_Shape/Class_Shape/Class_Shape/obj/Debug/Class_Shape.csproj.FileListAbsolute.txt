@@ -1,0 +1,6 @@
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\Class_Shape\Class_Shape\bin\Debug\Class_Shape.exe.config
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\Class_Shape\Class_Shape\bin\Debug\Class_Shape.exe
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\Class_Shape\Class_Shape\bin\Debug\Class_Shape.pdb
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\Class_Shape\Class_Shape\obj\Debug\Class_Shape.csprojResolveAssemblyReference.cache
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\Class_Shape\Class_Shape\obj\Debug\Class_Shape.exe
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\Class_Shape\Class_Shape\obj\Debug\Class_Shape.pdb

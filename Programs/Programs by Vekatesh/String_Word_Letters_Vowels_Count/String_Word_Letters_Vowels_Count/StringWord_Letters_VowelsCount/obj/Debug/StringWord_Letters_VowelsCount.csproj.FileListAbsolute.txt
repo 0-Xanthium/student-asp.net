@@ -1,0 +1,12 @@
+c:\users\bhagyesh\documents\visual studio 2013\Projects\StringWord_Letters_VowelsCount\StringWord_Letters_VowelsCount\bin\Debug\StringWord_Letters_VowelsCount.exe.config
+c:\users\bhagyesh\documents\visual studio 2013\Projects\StringWord_Letters_VowelsCount\StringWord_Letters_VowelsCount\bin\Debug\StringWord_Letters_VowelsCount.exe
+c:\users\bhagyesh\documents\visual studio 2013\Projects\StringWord_Letters_VowelsCount\StringWord_Letters_VowelsCount\bin\Debug\StringWord_Letters_VowelsCount.pdb
+c:\users\bhagyesh\documents\visual studio 2013\Projects\StringWord_Letters_VowelsCount\StringWord_Letters_VowelsCount\obj\Debug\StringWord_Letters_VowelsCount.csprojResolveAssemblyReference.cache
+c:\users\bhagyesh\documents\visual studio 2013\Projects\StringWord_Letters_VowelsCount\StringWord_Letters_VowelsCount\obj\Debug\StringWord_Letters_VowelsCount.exe
+c:\users\bhagyesh\documents\visual studio 2013\Projects\StringWord_Letters_VowelsCount\StringWord_Letters_VowelsCount\obj\Debug\StringWord_Letters_VowelsCount.pdb
+Z:\To Print\ASP.Net Practicals\StringWord_Letters_VowelsCount\StringWord_Letters_VowelsCount\bin\Debug\StringWord_Letters_VowelsCount.exe.config
+Z:\To Print\ASP.Net Practicals\StringWord_Letters_VowelsCount\StringWord_Letters_VowelsCount\obj\Debug\StringWord_Letters_VowelsCount.exe
+Z:\To Print\ASP.Net Practicals\StringWord_Letters_VowelsCount\StringWord_Letters_VowelsCount\obj\Debug\StringWord_Letters_VowelsCount.pdb
+Z:\To Print\ASP.Net Practicals\StringWord_Letters_VowelsCount\StringWord_Letters_VowelsCount\bin\Debug\StringWord_Letters_VowelsCount.exe
+Z:\To Print\ASP.Net Practicals\StringWord_Letters_VowelsCount\StringWord_Letters_VowelsCount\bin\Debug\StringWord_Letters_VowelsCount.pdb
+Z:\To Print\ASP.Net Practicals\StringWord_Letters_VowelsCount\StringWord_Letters_VowelsCount\obj\Debug\StringWord_Letters_VowelsCount.csprojResolveAssemblyReference.cache

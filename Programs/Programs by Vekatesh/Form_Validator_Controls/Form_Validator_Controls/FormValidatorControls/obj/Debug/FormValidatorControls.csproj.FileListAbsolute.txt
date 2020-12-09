@@ -1,0 +1,6 @@
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\FormValidatorControls\FormValidatorControls\bin\FormValidatorControls.dll.config
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\FormValidatorControls\FormValidatorControls\bin\FormValidatorControls.dll
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\FormValidatorControls\FormValidatorControls\bin\FormValidatorControls.pdb
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\FormValidatorControls\FormValidatorControls\obj\Debug\FormValidatorControls.csprojResolveAssemblyReference.cache
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\FormValidatorControls\FormValidatorControls\obj\Debug\FormValidatorControls.dll
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\FormValidatorControls\FormValidatorControls\obj\Debug\FormValidatorControls.pdb

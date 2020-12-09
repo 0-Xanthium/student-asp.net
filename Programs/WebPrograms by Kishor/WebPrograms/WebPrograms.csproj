@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B3C63A82-2445-4EA8-97C1-F02D9AF96238}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebPrograms</RootNamespace>
+    <AssemblyName>WebPrograms</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="addupdatedeletebygridview.aspx" />
+    <Content Include="adminDefault.aspx" />
+    <Content Include="adminLogin.aspx" />
+    <Content Include="Adrotator.aspx" />
+    <Content Include="adrotator1.aspx" />
+    <Content Include="AdsData.xml" />
+    <Content Include="armstrongornot.aspx" />
+    <Content Include="checkboxlist.aspx" />
+    <Content Include="checkboxlistwithaddremove.aspx" />
+    <Content Include="checkboxwithboldunderlineitalics.aspx" />
+    <Content Include="ContactUsPage.aspx" />
+    <Content Include="dropdownlistwithvalue.aspx" />
+    <Content Include="empaddupdatedeletebygridview.aspx" />
+    <Content Include="factorialnumber.aspx" />
+    <Content Include="filehandlingtowritefileandreadintotextbox.aspx" />
+    <Content Include="Fileuploaderandreaddata.aspx" />
+    <Content Include="fileuploaderandshowintextbox.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="hitcounter.aspx" />
+    <Content Include="insertrecordandshowingridview.aspx" />
+    <Content Include="insertrecordswithconnectedarchitecture.aspx" />
+    <Content Include="insuringpremiumbyage.aspx" />
+    <Content Include="listboxwithaddaddallremoveremoveall.aspx" />
+    <Content Include="listboxwithaddaddallremoveremoveall1.aspx" />
+    <Content Include="loginpagewithcookies.aspx" />
+    <Content Include="loginpagewithsession.aspx" />
+    <Content Include="primeornot.aspx" />
+    <Content Include="ProductPage.aspx" />
+    <Content Include="radiobuttontoselectfavoritecolor.aspx" />
+    <Content Include="shareholderwithdisconnected.aspx" />
+    <Content Include="showallvalidationtypes.aspx" />
+    <Content Include="sumoftwonumber.aspx" />
+    <Content Include="textboxtolabel.aspx" />
+    <Content Include="textboxwithtablebetweenrange.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="WebService1.asmx" />
+    <Content Include="Welcomepage.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addupdatedeletebygridview.aspx.cs">
+      <DependentUpon>addupdatedeletebygridview.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="addupdatedeletebygridview.aspx.designer.cs">
+      <DependentUpon>addupdatedeletebygridview.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminDefault.aspx.cs">
+      <DependentUpon>adminDefault.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminDefault.aspx.designer.cs">
+      <DependentUpon>adminDefault.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminLogin.aspx.cs">
+      <DependentUpon>adminLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminLogin.aspx.designer.cs">
+      <DependentUpon>adminLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Adrotator.aspx.cs">
+      <DependentUpon>Adrotator.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Adrotator.aspx.designer.cs">
+      <DependentUpon>Adrotator.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adrotator1.aspx.cs">
+      <DependentUpon>adrotator1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adrotator1.aspx.designer.cs">
+      <DependentUpon>adrotator1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="armstrongornot.aspx.cs">
+      <DependentUpon>armstrongornot.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="armstrongornot.aspx.designer.cs">
+      <DependentUpon>armstrongornot.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="checkboxlist.aspx.cs">
+      <DependentUpon>checkboxlist.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="checkboxlist.aspx.designer.cs">
+      <DependentUpon>checkboxlist.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="checkboxlistwithaddremove.aspx.cs">
+      <DependentUpon>checkboxlistwithaddremove.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="checkboxlistwithaddremove.aspx.designer.cs">
+      <DependentUpon>checkboxlistwithaddremove.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="checkboxwithboldunderlineitalics.aspx.cs">
+      <DependentUpon>checkboxwithboldunderlineitalics.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="checkboxwithboldunderlineitalics.aspx.designer.cs">
+      <DependentUpon>checkboxwithboldunderlineitalics.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContactUsPage.aspx.cs">
+      <DependentUpon>ContactUsPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUsPage.aspx.designer.cs">
+      <DependentUpon>ContactUsPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="dropdownlistwithvalue.aspx.cs">
+      <DependentUpon>dropdownlistwithvalue.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="dropdownlistwithvalue.aspx.designer.cs">
+      <DependentUpon>dropdownlistwithvalue.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="empaddupdatedeletebygridview.aspx.cs">
+      <DependentUpon>empaddupdatedeletebygridview.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="empaddupdatedeletebygridview.aspx.designer.cs">
+      <DependentUpon>empaddupdatedeletebygridview.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="factorialnumber.aspx.cs">
+      <DependentUpon>factorialnumber.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="factorialnumber.aspx.designer.cs">
+      <DependentUpon>factorialnumber.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="filehandlingtowritefileandreadintotextbox.aspx.cs">
+      <DependentUpon>filehandlingtowritefileandreadintotextbox.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="filehandlingtowritefileandreadintotextbox.aspx.designer.cs">
+      <DependentUpon>filehandlingtowritefileandreadintotextbox.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Fileuploaderandreaddata.aspx.cs">
+      <DependentUpon>Fileuploaderandreaddata.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Fileuploaderandreaddata.aspx.designer.cs">
+      <DependentUpon>Fileuploaderandreaddata.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="fileuploaderandshowintextbox.aspx.cs">
+      <DependentUpon>fileuploaderandshowintextbox.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="fileuploaderandshowintextbox.aspx.designer.cs">
+      <DependentUpon>fileuploaderandshowintextbox.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="hitcounter.aspx.cs">
+      <DependentUpon>hitcounter.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="hitcounter.aspx.designer.cs">
+      <DependentUpon>hitcounter.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="insertrecordandshowingridview.aspx.cs">
+      <DependentUpon>insertrecordandshowingridview.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="insertrecordandshowingridview.aspx.designer.cs">
+      <DependentUpon>insertrecordandshowingridview.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="insertrecordswithconnectedarchitecture.aspx.cs">
+      <DependentUpon>insertrecordswithconnectedarchitecture.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="insertrecordswithconnectedarchitecture.aspx.designer.cs">
+      <DependentUpon>insertrecordswithconnectedarchitecture.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="insuringpremiumbyage.aspx.cs">
+      <DependentUpon>insuringpremiumbyage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="insuringpremiumbyage.aspx.designer.cs">
+      <DependentUpon>insuringpremiumbyage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="listboxwithaddaddallremoveremoveall.aspx.cs">
+      <DependentUpon>listboxwithaddaddallremoveremoveall.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="listboxwithaddaddallremoveremoveall.aspx.designer.cs">
+      <DependentUpon>listboxwithaddaddallremoveremoveall.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="listboxwithaddaddallremoveremoveall1.aspx.cs">
+      <DependentUpon>listboxwithaddaddallremoveremoveall1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="listboxwithaddaddallremoveremoveall1.aspx.designer.cs">
+      <DependentUpon>listboxwithaddaddallremoveremoveall1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="loginpagewithcookies.aspx.cs">
+      <DependentUpon>loginpagewithcookies.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="loginpagewithcookies.aspx.designer.cs">
+      <DependentUpon>loginpagewithcookies.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="loginpagewithsession.aspx.cs">
+      <DependentUpon>loginpagewithsession.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="loginpagewithsession.aspx.designer.cs">
+      <DependentUpon>loginpagewithsession.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="primeornot.aspx.cs">
+      <DependentUpon>primeornot.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="primeornot.aspx.designer.cs">
+      <DependentUpon>primeornot.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProductPage.aspx.cs">
+      <DependentUpon>ProductPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductPage.aspx.designer.cs">
+      <DependentUpon>ProductPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="radiobuttontoselectfavoritecolor.aspx.cs">
+      <DependentUpon>radiobuttontoselectfavoritecolor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="radiobuttontoselectfavoritecolor.aspx.designer.cs">
+      <DependentUpon>radiobuttontoselectfavoritecolor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="shareholderwithdisconnected.aspx.cs">
+      <DependentUpon>shareholderwithdisconnected.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="shareholderwithdisconnected.aspx.designer.cs">
+      <DependentUpon>shareholderwithdisconnected.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="showallvalidationtypes.aspx.cs">
+      <DependentUpon>showallvalidationtypes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="showallvalidationtypes.aspx.designer.cs">
+      <DependentUpon>showallvalidationtypes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site1.Masterforsitemap.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site1.Masterforsitemap.designer.cs">
+      <DependentUpon>Site1.Masterforsitemap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sitemap.Master.cs">
+      <DependentUpon>Sitemap.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Sitemap.Master.designer.cs">
+      <DependentUpon>Sitemap.Master</DependentUpon>
+    </Compile>
+    <Compile Include="sumoftwonumber.aspx.cs">
+      <DependentUpon>sumoftwonumber.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sumoftwonumber.aspx.designer.cs">
+      <DependentUpon>sumoftwonumber.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="textboxtolabel.aspx.cs">
+      <DependentUpon>textboxtolabel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="textboxtolabel.aspx.designer.cs">
+      <DependentUpon>textboxtolabel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="textboxwithtablebetweenrange.aspx.cs">
+      <DependentUpon>textboxwithtablebetweenrange.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="textboxwithtablebetweenrange.aspx.designer.cs">
+      <DependentUpon>textboxwithtablebetweenrange.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebService1.asmx.cs">
+      <DependentUpon>WebService1.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Welcomepage.aspx.cs">
+      <DependentUpon>Welcomepage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Welcomepage.aspx.designer.cs">
+      <DependentUpon>Welcomepage.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
+    <Folder Include="Upload\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Sitemap.Master" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>7311</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

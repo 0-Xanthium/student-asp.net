@@ -1,0 +1,7 @@
+c:\users\harry\documents\visual studio 2010\Projects\Armstrong\Armstrong\bin\Debug\Armstrong.exe
+c:\users\harry\documents\visual studio 2010\Projects\Armstrong\Armstrong\bin\Debug\Armstrong.pdb
+c:\users\harry\documents\visual studio 2010\Projects\Armstrong\Armstrong\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\harry\documents\visual studio 2010\Projects\Armstrong\Armstrong\obj\x86\Debug\Armstrong.exe
+c:\users\harry\documents\visual studio 2010\Projects\Armstrong\Armstrong\obj\x86\Debug\Armstrong.pdb
+Z:\ASP.Net Practicals\Armstrong\Armstrong\obj\x86\Debug\Armstrong.exe
+Z:\ASP.Net Practicals\Armstrong\Armstrong\obj\x86\Debug\Armstrong.pdb

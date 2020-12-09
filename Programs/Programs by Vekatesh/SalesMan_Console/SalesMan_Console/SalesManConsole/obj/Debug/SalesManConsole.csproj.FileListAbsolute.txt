@@ -1,0 +1,6 @@
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\SalesManConsole\SalesManConsole\bin\Debug\SalesManConsole.exe.config
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\SalesManConsole\SalesManConsole\bin\Debug\SalesManConsole.exe
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\SalesManConsole\SalesManConsole\bin\Debug\SalesManConsole.pdb
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\SalesManConsole\SalesManConsole\obj\Debug\SalesManConsole.csprojResolveAssemblyReference.cache
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\SalesManConsole\SalesManConsole\obj\Debug\SalesManConsole.exe
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\SalesManConsole\SalesManConsole\obj\Debug\SalesManConsole.pdb

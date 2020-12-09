@@ -1,0 +1,3 @@
+4/16/2015 3:04:32 PM: Ad clicked. Redirect to http://www.microsoft.com
+4/16/2015 3:06:06 PM: Ad clicked. Redirect to http://msdn.microsoft.com
+4/16/2015 3:07:29 PM: Ad clicked. Redirect to http://www.microsoft.com/technet

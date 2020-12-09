@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebService\WebService\bin\WebService.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebService\WebService\bin\WebService.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebService\WebService\obj\Debug\WebService.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebService\WebService\obj\Debug\WebService.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache

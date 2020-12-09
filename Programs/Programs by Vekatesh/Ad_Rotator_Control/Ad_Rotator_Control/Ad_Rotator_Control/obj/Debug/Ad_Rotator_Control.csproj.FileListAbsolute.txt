@@ -1,0 +1,15 @@
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\Ad_Rotator_Control\Ad_Rotator_Control\bin\Ad_Rotator_Control.dll.config
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\Ad_Rotator_Control\Ad_Rotator_Control\bin\Ad_Rotator_Control.dll
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\Ad_Rotator_Control\Ad_Rotator_Control\bin\Ad_Rotator_Control.pdb
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\Ad_Rotator_Control\Ad_Rotator_Control\obj\Debug\Ad_Rotator_Control.csprojResolveAssemblyReference.cache
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\Ad_Rotator_Control\Ad_Rotator_Control\obj\Debug\Ad_Rotator_Control.dll
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\Ad_Rotator_Control\Ad_Rotator_Control\obj\Debug\Ad_Rotator_Control.pdb
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\Ad_Rotator_Control\Ad_Rotator_Control\obj\Debug\Ad_Rotator_Control.Properties.Resources.resources
+C:\Users\Venkzz\Desktop\ASP.Net Practicals\Ad_Rotator_Control\Ad_Rotator_Control\obj\Debug\Ad_Rotator_Control.csproj.GenerateResource.Cache
+C:\Users\Kishor Trimal\Downloads\ASP.NET_Practicals-2015-05-06\Practicals\Ad_Rotator_Control\Ad_Rotator_Control\Ad_Rotator_Control\bin\Ad_Rotator_Control.dll
+C:\Users\Kishor Trimal\Downloads\ASP.NET_Practicals-2015-05-06\Practicals\Ad_Rotator_Control\Ad_Rotator_Control\Ad_Rotator_Control\bin\Ad_Rotator_Control.pdb
+C:\Users\Kishor Trimal\Downloads\ASP.NET_Practicals-2015-05-06\Practicals\Ad_Rotator_Control\Ad_Rotator_Control\Ad_Rotator_Control\obj\Debug\Ad_Rotator_Control.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Trimal\Downloads\ASP.NET_Practicals-2015-05-06\Practicals\Ad_Rotator_Control\Ad_Rotator_Control\Ad_Rotator_Control\obj\Debug\Ad_Rotator_Control.Properties.Resources.resources
+C:\Users\Kishor Trimal\Downloads\ASP.NET_Practicals-2015-05-06\Practicals\Ad_Rotator_Control\Ad_Rotator_Control\Ad_Rotator_Control\obj\Debug\Ad_Rotator_Control.csproj.GenerateResource.Cache
+C:\Users\Kishor Trimal\Downloads\ASP.NET_Practicals-2015-05-06\Practicals\Ad_Rotator_Control\Ad_Rotator_Control\Ad_Rotator_Control\obj\Debug\Ad_Rotator_Control.dll
+C:\Users\Kishor Trimal\Downloads\ASP.NET_Practicals-2015-05-06\Practicals\Ad_Rotator_Control\Ad_Rotator_Control\Ad_Rotator_Control\obj\Debug\Ad_Rotator_Control.pdb

@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 165px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:SiteMapDataSource ID="smdsMaster" runat="server" />
+        <asp:SiteMapDataSource ID="smdsChild" runat="server" ShowStartingNode="False" StartFromCurrentNode="True" />
+
+            <table width="100%">
+                <tr>
+                    <td colspan="2"><asp:Menu ID="mnuMaster" runat="server" DataSourceID="smdsMaster" 
+                             Orientation="Horizontal" StaticDisplayLevels="2" 
+                            MaximumDynamicDisplayLevels="0" BackColor="#33CCCC" Font-Bold="True"></asp:Menu></td>
+                </tr>
+                <tr>
+                    <td class="style1"><asp:Menu ID="mnuChild" DataSourceID="smdsChild" runat="server" 
+                            BackColor="#FFFFCC" Font-Italic="True" ForeColor="#CC0000"></asp:Menu></td>
+                    <td align="left"><asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder></td>
+                </tr>
+            </table>
+        
+    </div>
+    </form>
+</body>
+</html>

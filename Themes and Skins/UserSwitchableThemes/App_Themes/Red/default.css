@@ -1,0 +1,43 @@
+﻿td.title 
+{
+  font-size: 1em;
+  text-align: center;
+  font-family: verdana;
+  font-size: x-large;
+  font-weight: bolder;
+  color: Pink;
+}
+
+table.header
+{
+  background-color: Red;
+}
+
+h1
+{
+  font-size: large;
+  color:Fuchsia;
+}
+
+h2
+{
+  font-family: Verdana;
+  font-size: medium;
+  margin-top: 30;
+  color: Fuchsia;
+}
+
+p
+{
+  font-family: Verdana;
+  font-size: small;
+  color: Pink;
+  text-align: left;
+}
+
+hr
+{
+  border: 0;
+  border-top: 2px solid Aqua;
+  height: 2px;
+}

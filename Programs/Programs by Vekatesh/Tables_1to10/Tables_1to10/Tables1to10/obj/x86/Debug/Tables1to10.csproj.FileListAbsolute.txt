@@ -1,0 +1,10 @@
+c:\users\harry\documents\visual studio 2010\Projects\Tables1to10\Tables1to10\bin\Debug\Tables1to10.exe
+c:\users\harry\documents\visual studio 2010\Projects\Tables1to10\Tables1to10\bin\Debug\Tables1to10.pdb
+c:\users\harry\documents\visual studio 2010\Projects\Tables1to10\Tables1to10\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\harry\documents\visual studio 2010\Projects\Tables1to10\Tables1to10\obj\x86\Debug\Tables1to10.exe
+c:\users\harry\documents\visual studio 2010\Projects\Tables1to10\Tables1to10\obj\x86\Debug\Tables1to10.pdb
+Z:\ASP.Net Practicals\Tables1to10\Tables1to10\obj\x86\Debug\Tables1to10.exe
+Z:\ASP.Net Practicals\Tables1to10\Tables1to10\obj\x86\Debug\Tables1to10.pdb
+Z:\ASP.Net Practicals\Tables1to10\Tables1to10\bin\Debug\Tables1to10.exe
+Z:\ASP.Net Practicals\Tables1to10\Tables1to10\bin\Debug\Tables1to10.pdb
+Z:\ASP.Net Practicals\Tables1to10\Tables1to10\obj\x86\Debug\Tables1to10.csprojResolveAssemblyReference.cache
